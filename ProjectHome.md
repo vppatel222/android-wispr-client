@@ -1,0 +1,1 @@
+Android WISPr client to seamlessly login to HotSpots without the need for the user to interact with a captive portal.
